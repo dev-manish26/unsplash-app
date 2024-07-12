@@ -1,4 +1,3 @@
-// src/pages/index.js
 import React from 'react';
 import styles from './page.module.css';
 import Search from '../components/Search';

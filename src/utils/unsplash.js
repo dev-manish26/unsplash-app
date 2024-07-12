@@ -1,4 +1,3 @@
-// utils/unsplash.js
 import { createApi } from 'unsplash-js';
 
 const unsplash = createApi({
